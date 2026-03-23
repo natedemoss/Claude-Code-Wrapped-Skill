@@ -8,7 +8,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)](#installation)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/natedemoss/Claude-Code-Wrapped-Skill?style=flat-square&color=gold&label=Stars)](https://github.com/natedemoss/Claude-Code-Wrapped-Skill/stargazers)
 
 **Like Spotify Wrapped, but for your AI coding sessions.**
 Type `/wrapped` in Claude Code. Get a full interactive recap of your year.
