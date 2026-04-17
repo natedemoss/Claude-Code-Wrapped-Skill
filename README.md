@@ -149,8 +149,6 @@ At the end of every wrapped, you get a personality read based on how you actuall
 
 <div align="center">
 
-Made for [Claude Code](https://claude.ai/claude-code) by developers who wanted to know how deep the rabbit hole goes.
-
 If this was useful, consider giving a star.
 
 </div>
